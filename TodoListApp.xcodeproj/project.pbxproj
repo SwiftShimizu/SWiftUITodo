@@ -14,6 +14,8 @@
 		E6B1AC6A27468D5500E5BA32 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6B1AC6927468D5500E5BA32 /* Assets.xcassets */; };
 		E6B1AC6D27468D5500E5BA32 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6B1AC6C27468D5500E5BA32 /* Preview Assets.xcassets */; };
 		E6B1AC7027468D5500E5BA32 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E6B1AC6E27468D5500E5BA32 /* LaunchScreen.storyboard */; };
+		E6B1AC7827468F1300E5BA32 /* CategoryImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B1AC7727468F1300E5BA32 /* CategoryImage.swift */; };
+		E6B1AC7A274693C300E5BA32 /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B1AC79274693C300E5BA32 /* CheckBox.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		E6B1AC6C27468D5500E5BA32 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E6B1AC6F27468D5500E5BA32 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E6B1AC7127468D5500E5BA32 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E6B1AC7727468F1300E5BA32 /* CategoryImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryImage.swift; sourceTree = "<group>"; };
+		E6B1AC79274693C300E5BA32 /* CheckBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				E6B1AC6027468D5500E5BA32 /* AppDelegate.swift */,
 				E6B1AC6227468D5500E5BA32 /* SceneDelegate.swift */,
 				E6B1AC6427468D5500E5BA32 /* ContentView.swift */,
+				E6B1AC7727468F1300E5BA32 /* CategoryImage.swift */,
+				E6B1AC79274693C300E5BA32 /* CheckBox.swift */,
 				E6B1AC6927468D5500E5BA32 /* Assets.xcassets */,
 				E6B1AC6E27468D5500E5BA32 /* LaunchScreen.storyboard */,
 				E6B1AC7127468D5500E5BA32 /* Info.plist */,
@@ -150,7 +156,9 @@
 			files = (
 				E6B1AC6127468D5500E5BA32 /* AppDelegate.swift in Sources */,
 				E6B1AC6327468D5500E5BA32 /* SceneDelegate.swift in Sources */,
+				E6B1AC7A274693C300E5BA32 /* CheckBox.swift in Sources */,
 				E6B1AC6527468D5500E5BA32 /* ContentView.swift in Sources */,
+				E6B1AC7827468F1300E5BA32 /* CategoryImage.swift in Sources */,
 				E6B1AC6827468D5500E5BA32 /* TodoListApp.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
